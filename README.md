@@ -1,5 +1,5 @@
-Hi, I’m Christiaan — a developer with a background in web development, now focusing on Unity and digital content creation using Blender. I enjoy building interactive experiences, exploring 3D workflows, and sharpening my skills in game development. I’m especially eager to learn more about artificial intelligence for games and continually expand my expertise. I’m open to new challenges, committed to growing in the tech space, and driven to create meaningful, engaging digital experiences.
-<!--
+<!--Hi, I’m Christiaan — a developer with a background in web development, now focusing on Unity and digital content creation using Blender. I enjoy building interactive experiences, exploring 3D workflows, and sharpening my skills in game development. I’m especially eager to learn more about artificial intelligence for games and continually expand my expertise. I’m open to new challenges, committed to growing in the tech space, and driven to create meaningful, engaging digital experiences.
+
 **Christiaan-C-Cupido/Christiaan-C-Cupido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
